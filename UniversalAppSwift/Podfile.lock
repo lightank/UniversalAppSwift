@@ -1,0 +1,101 @@
+PODS:
+  - Alamofire (5.2.2)
+  - CocoaLumberjack/Core (3.7.0)
+  - CocoaLumberjack/Swift (3.7.0):
+    - CocoaLumberjack/Core
+  - DeviceKit (2.3.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Hero (1.5.0)
+  - IGListDiffKit (4.0.0)
+  - IGListKit (4.0.0):
+    - IGListDiffKit (= 4.0.0)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - LookinServer (1.0.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - RAMAnimatedTabBarController (5.1.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SnapKit (4.2.0)
+  - SwiftDate (6.1.0)
+  - SwiftLint (0.39.2)
+  - SwiftyJSON (4.3.0)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Alamofire (= 5.2.2)
+  - CocoaLumberjack/Swift (= 3.7.0)
+  - DeviceKit (= 2.3.0)
+  - FMDB (= 2.7.5)
+  - Hero (= 1.5.0)
+  - IGListKit (= 4.0.0)
+  - Kingfisher (= 5.14.1)
+  - LookinServer
+  - Moya (= 14.0.0)
+  - RAMAnimatedTabBarController (= 5.1.0)
+  - RxCocoa (= 5.1.1)
+  - RxSwift (= 5.1.1)
+  - SnapKit (= 4.2.0)
+  - SwiftDate (= 6.1.0)
+  - SwiftLint
+  - SwiftyJSON (= 4.3.0)
+  - YYKit (= 1.0.9)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CocoaLumberjack
+    - DeviceKit
+    - FMDB
+    - Hero
+    - IGListDiffKit
+    - IGListKit
+    - Kingfisher
+    - LookinServer
+    - Moya
+    - RAMAnimatedTabBarController
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SwiftDate
+    - SwiftLint
+    - SwiftyJSON
+    - YYKit
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  CocoaLumberjack: e8955b9d337ac307103b0a34fd141c32f27e53c5
+  DeviceKit: da103891aa928d89f64ea8dd8aca738c5f3d8ac0
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  IGListDiffKit: 665d6cf43ce726e676013db9c7d6c4294259b6b2
+  IGListKit: fd5a5d21935298f5849fa49d426843cff97b77c7
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  LookinServer: 0002891cd3cec5e082a910e897dfe71b4f06b89e
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  RAMAnimatedTabBarController: b5c821298071fded801532216ad8a24394f89859
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftDate: fa2bb3962056bb44047b4b85a30044e5eae30b03
+  SwiftLint: 22ccbbe3b8008684be5955693bab135e0ed6a447
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 26c1ddca5e364fad39b994ccdd816176a543b27a
+
+COCOAPODS: 1.11.1
